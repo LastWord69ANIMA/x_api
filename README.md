@@ -1,10 +1,9 @@
 # x_api
 
-以下は、Twitter_apiの説明文と同じ内容です。
-https://github.com/LastWord69ANIMA/Twiiter_api
-
 https://programming-zero.net/how-to-start-twitter-api-basic-and-free/
+
 https://programming-zero.net/twitter-api-process/
+
 https://developer.twitter.com/en/docs/twitter-api/getting-started/about-twitter-api
 
 以上より、使用していた**Standard(旧無料プラン)の機能であった他ユーザーのツイート取得が、Free(現無料プラン)では不可**ということが判明しました。
